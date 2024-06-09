@@ -1,1 +1,1 @@
-# Linear-model-and-toxic-comments
+# toxicity-detection
